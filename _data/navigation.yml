@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
+  - title: "Current Works"
     url: /posts/
-  - title: "Categories"
+  - title: "Education and Interests"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Publications and CV"
     url: /about/
